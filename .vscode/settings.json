@@ -1,0 +1,5 @@
+{
+    "git.branchRandomName.enable": false,
+    "git.allowForcePush": false,
+    "git.autoStash": false
+}
